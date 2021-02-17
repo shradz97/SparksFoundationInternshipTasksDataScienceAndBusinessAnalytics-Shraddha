@@ -1,0 +1,11 @@
+Steps:
+Import Library files
+Read the csv file
+Plot the data
+split the data into train and test
+run linear regression algorithm
+see loss and accuracy
+
+Links:
+
+https://medium.com/the-code-monster/split-a-dataset-into-train-and-test-datasets-using-sk-learn-acc7fd1802e0
