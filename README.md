@@ -1,6 +1,6 @@
 # Sparks Foundation Internship Tasks <br>Data Science And Business Analytics<br>
 <h2>-Shraddha Padhiari</h2>
-<br><br>
+<br>
 <b>Task One:</b> Prediction using Supervised ML <br>
 <b>Task Two:</b> Prediction using Unsupervised ML <br>
 <b>Task Three:</b> Exploratory Data Analysis - Retail <br>
